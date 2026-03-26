@@ -1,0 +1,9 @@
+{
+  "name": "cursor-plugin-workaround",
+  "description": "Workaround plugin to show the hidden GitHub URL input in plugin settings",
+  "version": "0.1.0",
+  "author": {
+    "name": "juliantroeps"
+  },
+  "repository": "https://github.com/juliantroeps/cursor-plugin-workaround"
+}
